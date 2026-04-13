@@ -1,0 +1,17 @@
+{
+  "name": "Real School Tickets",
+  "short_name": "Tickets",
+  "description": "Live Box Office and QR Scanner",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f8f9fa",
+  "theme_color": "#0d6efd",
+  "icons": [
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
